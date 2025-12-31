@@ -104,7 +104,9 @@ I build scalable, modern web and mobile applications with clean user interfaces,
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://x.com/DNwanoneze84204">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg" height="40" />
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/x.svg"
+         height="40"
+         style="filter: invert(1);" />
   </a>
 </p>
 
