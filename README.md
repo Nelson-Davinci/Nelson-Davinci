@@ -1,55 +1,131 @@
-<h1 align="center">Hey 👋, I'm Nelson (Davinci)</h1>
-<h3 align="center">Full-Stack & Mobile Developer | Startup Operator | Software Engineering Student</h3>
+# 👋 Hi, I’m David Nelson-Nwanoneze
+
+**Full-Stack Web & Mobile Developer | React, React Native, Node.js | NoSQL & SQL**
+
+I build scalable, modern web and mobile applications with clean user interfaces, reliable backend systems, and production-ready architectures. My work spans dashboards, management systems, authentication workflows, and cloud deployments.
 
 ---
 
-### 🚀 About Me
-I'm a Software Engineering student and builder who enjoys turning ideas into **real, usable products**.  
-I work across **web, mobile, and backend systems**, and I’m equally comfortable writing code or helping a product move from concept to deployment.
+## 🚀 Tech Stack
 
-I’m particularly interested in **education tech, fintech, and community-focused platforms**, and I enjoy working in fast-paced, startup-style environments.
+### 👨‍💻 Programming Languages
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,sql" />
+</p>
+
+- JavaScript (ES6+)
+- TypeScript
+- Python
+- HTML5
+- CSS3
+- SQL
 
 ---
 
-### 🛠️ Tech Stack
-**Languages & Tools**
-- JavaScript / TypeScript  
-- React, Next.js  
-- React Native (Expo)  
-- Node.js, Express  
+### ⚛️ Frontend (Web & Mobile)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,reactnative" />
+</p>
 
-**Databases & Services**
-- MongoDB, MySQL  
-- Firebase, Supabase  
-
-**Styling & UI**
+- React.js  
+- Next.js  
+- React Native  
 - Tailwind CSS  
-- Responsive & mobile-first design  
+- Framer Motion  
+- ShadCN/UI  
+- Recharts  
 
 ---
 
-### 📦 What I’m Working On
-- Building scalable web & mobile applications  
-- Implementing secure authentication systems  
-- Exploring startup operations & product execution  
-- Developing systems for transparent dues & payments in student communities  
+### 🧠 Backend & Server-Side
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,firebase" />
+</p>
+
+- Node.js  
+- Firebase Cloud Functions  
+- RESTful API design  
+- Serverless architectures  
 
 ---
 
-### 📊 GitHub Stats
+### 🗄️ Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase" />
+</p>
+
+- MongoDB  
+- Firestore  
+- SQL (Relational databases, queries, schema concepts)
+
+---
+
+### ☁️ DevOps & Tooling
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vercel,npm" />
+</p>
+
+- Git & GitHub  
+- Vercel  
+- Firebase Hosting  
+- CI/CD workflows  
+- Environment variable management  
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nelson-Davinci&show_icons=true&theme=github_dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nelson-Davinci&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nelson-Davinci&theme=github-dark" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nelson-Davinci&theme=tokyonight" />
 </p>
 
 ---
 
-### 🤝 Let’s Connect
-- LinkedIn: *add your LinkedIn link*
-- Email: *optional*
-- Portfolio: *optional (later)*
+## 🧩 Project Domains
 
-> Builder. Operator. Software Engineer in progress.
+- 🎓 Student Dashboards  
+- 🍽️ Cafeteria & Meal Management Systems  
+- 🏠 Hostel Management Platforms  
+- 💳 Payment & Dues Collection Systems  
+- 📱 Mobile Applications (React Native)  
+- 🤖 AI-assisted system design  
+
+---
+
+## 🧠 Engineering Practices
+
+- Component-driven architecture  
+- Role-Based Access Control (RBAC)  
+- Authentication & OTP workflows  
+- Modular and scalable design  
+- Clean, maintainable code  
+
+---
+
+## 📫 Connect With Me
+<p align="left">
+  <a href="https://github.com/Nelson-Davinci">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
+  <a href="mailto:nwanonezedavid@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+  <a href="https://x.com/DNwanoneze84204">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+</p>
+
+---
+
+## ⚡ Summary
+
+- Full-stack web and mobile developer  
+- Strong React + React Native ecosystem  
+- Comfortable with both NoSQL and SQL databases  
+- Production-focused, scalable system design  
+
+This profile README is designed to be **clear, credible, and visually strong**, while accurately reflecting real technical capability.
