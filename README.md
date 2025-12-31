@@ -71,17 +71,6 @@ I build scalable, modern web and mobile applications with clean user interfaces,
 - CI/CD workflows  
 - Environment variable management  
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nelson-Davinci&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nelson-Davinci&theme=tokyonight" />
-</p>
 
 ---
 
@@ -115,7 +104,7 @@ I build scalable, modern web and mobile applications with clean user interfaces,
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://x.com/DNwanoneze84204">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+    <img src="https://skillicons.dev/icons?i=x" />
   </a>
 </p>
 
