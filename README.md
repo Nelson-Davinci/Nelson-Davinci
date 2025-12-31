@@ -110,13 +110,3 @@ I build scalable, modern web and mobile applications with clean user interfaces,
   </a>
 </p>
 
----
-
-## ⚡ Summary
-
-- Full-stack web and mobile developer  
-- Strong React + React Native ecosystem  
-- Comfortable with both NoSQL and SQL databases  
-- Production-focused, scalable system design  
-
-This profile README is designed to be **clear, credible, and visually strong**, while accurately reflecting real technical capability.
