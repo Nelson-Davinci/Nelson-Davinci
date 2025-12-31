@@ -6,7 +6,7 @@ I build scalable, modern web and mobile applications with clean user interfaces,
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 
 ### 👨‍💻 Programming Languages
 <p align="left">
@@ -104,7 +104,7 @@ I build scalable, modern web and mobile applications with clean user interfaces,
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
   <a href="https://x.com/DNwanoneze84204">
-    <img src="https://skillicons.dev/icons?i=x" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/X_logo_2023.svg" height="48" />
   </a>
 </p>
 
